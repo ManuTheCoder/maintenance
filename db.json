@@ -163,12 +163,14 @@
 		"name": "Flush your water heater",
 		"category": "home",
 		"repeat": 365,
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Paint/touch-up your interior walls",
 		"category": "home",
 		"repeat": 365,
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
