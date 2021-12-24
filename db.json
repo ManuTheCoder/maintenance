@@ -3,137 +3,160 @@
 		"name": "Replace engine oil",
 		"category": "auto",
 		"repeat": 180,
+		"itemsNeeded": ["Engine oil"],
 		"priority": 2
 	},
 	{
 		"name": "Replace AC filter every 30 days",
 		"category": "home",
 		"repeat": 30,
+		"itemsNeeded": ["AC filter"],
 		"priority": 1
 	},
 	{
 		"name": "Clean up your pool",
 		"category": "garden",
 		"repeat": 30,
+		"itemsNeeded": ["Pool cleaner"],
 		"priority": 2
 	},
 	{
 		"name": "Clean your yard!",
 		"category": "garden",
 		"repeat": 90,
+		"itemsNeeded": ["Rake", "Leaf blower", "Weelbarrow"],
 		"priority": 1
 	},
 	{
 		"name": "Check for signs of termites/pests",
 		"category": "garden",
 		"repeat": 180,
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Power wash your driveway",
 		"category": "garden",
 		"repeat": 180,
+		"itemsNeeded": ["Hose"],
 		"priority": 3
 	},
 	{
 		"name": "Power wash your walls",
 		"category": "garden",
 		"repeat": 180,
+		"itemsNeeded": ["Hose"],
 		"priority": 2
 	},
 	{
 		"name": "Winterize exterior plumbing",
 		"category": "garden",
 		"repeat": 365,
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Polish your furniture",
 		"category": "home",
 		"repeat": 30,
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Inspect water drainage",
 		"category": "garden",
+		"itemsNeeded": ["Flashlight"],
 		"priority": 2
 	},
 	{
 		"name": "Wash your carpets and mats",
 		"category": "home",
 		"repeat": 30,
+		"itemsNeeded": ["Carpet washer", "Carpet cleaning liquid"],
 		"priority": 3
 	},
 	{
 		"name": "Clean blinds and drapes",
 		"category": "home",
 		"repeat": 90,
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Wash your windows from outside and inside",
 		"category": "home",
 		"repeat": 180,
+		"itemsNeeded": ["Window cleaner", "Micro-fiber towel"],
 		"priority": 1
 	},
 	{
 		"name": "Clean your basement",
 		"category": "home",
 		"repeat": 365,
+		"itemsNeeded": ["Vacuum cleaner", "Broom"],
 		"priority": 1
 	},
 	{
 		"name": "Clean light fixtures",
 		"category": "home",
 		"repeat": 180,
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Reorganize kitchen cabinets and shelves",
 		"category": "home",
 		"repeat": 180,
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Wash interior walls",
 		"category": "home",
 		"repeat": 365,
+		"itemsNeeded": ["Mop"],
 		"priority": 1
 	},
 	{
 		"name": "Wash your sheets",
 		"category": "home",
 		"repeat": 7,
+		"itemsNeeded": ["Detergent"],
 		"priority": 1
 	},
 	{
 		"name": "Wash your curtains",
 		"category": "home",
 		"repeat": 180,
+		"itemsNeeded": ["Detergent"],
 		"priority": 1
 	},
 	{
 		"name": "Test garage door reverse feature",
 		"category": "home",
 		"repeat": 365,
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Clean dryer vent",
 		"category": "home",
 		"repeat": 180,
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Clean air conditioning ducts",
 		"category": "home",
 		"repeat": 365,
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Clean your chimney",
 		"category": "home",
 		"repeat": 365,
+		"itemsNeeded": ["Chimney brush", "Fireplace cover", "Mirror", "Tarp"],
 		"priority": 1
 	},
 	{
@@ -152,364 +175,425 @@
 		"name": "Vacuum your carpet",
 		"category": "home",
 		"repeat": 30,
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Clean your fridge",
 		"category": "home",
 		"repeat": 90,
+		"itemsNeeded": [],
 		"priority": 2
 	},
 	{
 		"name": "Polish wood furniture",
 		"category": "home",
 		"repeat": 180,
+		"itemsNeeded": ["Wood polish"],
 		"priority": 2
 	},
 	{
 		"name": "Polish leather furniture",
 		"category": "home",
 		"repeat": 180,
+		"itemsNeeded": ["Leather polish"],
 		"priority": 2
 	},
 	{
 		"name": "Polish metal fixtures",
 		"category": "home",
 		"repeat": 180,
+		"itemsNeeded": ["Metal polish"],
 		"priority": 2
 	},
 	{
 		"name": "Dust the hard-to-reach places",
 		"category": "home",
 		"repeat": 60,
+		"itemsNeeded": [],
 		"priority": 2
 	},
 	{
 		"name": "Wash your carpets",
 		"category": "home",
 		"repeat": 60,
+		"itemsNeeded": [],
 		"priority": 2
 	},
 	{
 		"name": "Wash tile grout",
 		"category": "home",
 		"repeat": 60,
+		"itemsNeeded": [],
 		"priority": 3
 	},
 	{
 		"name": "Replace smoke detector batteries",
 		"category": "home",
 		"repeat": 180,
+		"itemsNeeded": [],
 		"priority": 2
 	},
 	{
 		"name": "Vacuum refrigerator coils",
 		"category": "home",
 		"repeat": 365,
+		"itemsNeeded": ["Vacuum cleaner"],
 		"priority": 3
 	},
 	{
 		"name": "Test water heater pressure",
 		"category": "home",
 		"repeat": 365,
+		"itemsNeeded": [],
 		"priority": 2
 	},
 	{
 		"name": "Check and repair caulking",
 		"category": "home",
 		"repeat": 365,
+		"itemsNeeded": ["Caulking"],
 		"priority": 1
 	},
 	{
 		"name": "Replace fire extinguishers",
 		"category": "home",
 		"repeat": 180,
+		"itemsNeeded": ["Fire extinguisher"],
 		"priority": 1
 	},
 	{
 		"name": "Reseal stone surfaces",
 		"category": "home",
 		"repeat": 180,
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Trim shrubs around air conditioning units",
 		"category": "garden",
 		"repeat": 180,
+		"itemsNeeded": ["Garden trimmer"],
 		"priority": 1
 	},
 	{
 		"name": "Inspect attic for leaks during heavy rain",
 		"category": "home",
 		"repeat": 365,
+		"itemsNeeded": ["Flashlight"],
 		"priority": 1
 	},
 	{
 		"name": "Seal exterior wooden decks and balconies",
 		"category": "home",
 		"repeat": 365,
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Inspect automatic garage door safety shutoff",
 		"repeat": 365,
 		"category": "home",
+		"itemsNeeded": ["Flashlight", "Screwdriver"],
 		"priority": 1
 	},
 	{
 		"name": "Inspect heating and cooling systems",
 		"category": "home",
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Clean your stove",
 		"repeat": 180,
 		"category": "home",
+		"itemsNeeded": ["Grease remover", "Water", "Micro-fiber towel"],
 		"priority": 1
 	},
 	{
 		"name": "Clean shower heads",
 		"repeat": 30,
 		"category": "home",
+		"itemsNeeded": ["Vinegar", "Plastic bag"],
 		"priority": 1
 	},
 	{
 		"name": "Remove expired food",
 		"repeat": 7,
 		"category": "home",
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Check Sprinklers",
 		"repeat": 180,
 		"category": "home",
+		"itemsNeeded": ["Screwdriver"],
 		"priority": 1
 	},
 	{
 		"name": "Descale Coffee maker",
 		"repeat": 90,
 		"category": "home",
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Dust your TV",
 		"repeat": 7,
 		"category": "home",
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Prune your plants",
 		"repeat": 30,
 		"category": "home",
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Inspect your car's brakes",
 		"category": "auto",
 		"repeat": 180,
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Inspect car AC filter",
 		"category": "auto",
 		"repeat": 180,
+		"itemsNeeded": [],
 		"priority": 2
 	},
 	{
 		"name": "Inspect hoses and belts",
 		"category": "auto",
 		"repeat": 180,
+		"itemsNeeded": [],
 		"priority": 3
 	},
 	{
 		"name": "Replace car engine filter",
 		"category": "auto",
 		"repeat": 180,
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Check car lights",
 		"category": "auto",
 		"repeat": 360,
+		"itemsNeeded": [],
 		"priority": 2
 	},
 	{
 		"name": "Check windshield washer fluid",
 		"category": "auto",
+		"itemsNeeded": [],
 		"priority": 3
 	},
 	{
 		"name": "Wash your car",
 		"repeat": 60,
 		"category": "auto",
+		"itemsNeeded": ["Water", "Mop", "Micro-fiber towel", "Soap"],
 		"priority": 1
 	},
 	{
 		"name": "Replace wiper blades",
 		"repeat": 180,
 		"category": "auto",
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Check car battery",
 		"repeat": 1826,
 		"category": "auto",
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Wash your toilet",
 		"repeat": 7,
 		"category": "home",
+		"itemsNeeded": ["Toilet cleaner", "Toilet brush", "Plunger"],
 		"priority": 1
 	},
 	{
 		"name": "Wipe down stair railings",
 		"repeat": 180,
 		"category": "home",
+		"itemsNeeded": ["Micro-fiber towel", "Disinfectant wipes"],
 		"priority": 2
 	},
 	{
 		"name": "Clean fridge coils and grill",
 		"repeat": 180,
 		"category": "home",
+		"itemsNeeded": [],
 		"priority": 2
 	},
 	{
 		"name": "Inspect hoses connecting to washing machine",
 		"repeat": 180,
 		"category": "home",
+		"itemsNeeded": ["Flashlight"],
 		"priority": 2
 	},
 	{
 		"name": "Test power outlets",
 		"repeat": 365,
 		"category": "home",
+		"itemsNeeded": ["Anything which requires electricity"],
 		"priority": 1
 	},
 	{
 		"name": "Lubricate garage door",
 		"repeat": 365,
 		"category": "auto",
+		"itemsNeeded": ["Garage door lubricant"],
 		"priority": 1
 	},
 	{
 		"name": "Remove mineral deposits from shower/sink faucets, taps, and heads",
 		"repeat": 180,
 		"category": "home",
+		"itemsNeeded": ["Micro-fiber towel"],
 		"priority": 1
 	},
 	{
 		"name": "Clean bathroom exhaust fan",
 		"repeat": 90,
 		"category": "home",
+		"itemsNeeded": ["Micro-fiber towel"],
 		"priority": 2
 	},
 	{
 		"name": "Inspect roof for damage",
 		"repeat": 365,
 		"category": "home",
+		"itemsNeeded": ["Flashlight", "Drone (optional, to check from aerial point of view)"],
 		"priority": 2
 	},
 	{
 		"name": "Insulate outdoor and indoor pipes",
 		"repeat": 180,
 		"category": "home",
+		"itemsNeeded": [],
 		"priority": 2
 	},
 	{
 		"name": "Fertilize your lawn",
 		"repeat": 90,
 		"category": "garden",
+		"itemsNeeded": ["Lawn fertilizer"],
 		"priority": 1
 	},
 	{
 		"name": "Wipe all ceiling fans",
 		"repeat": 30,
 		"category": "home",
+		"itemsNeeded": ["Micro-fiber towel"],
 		"priority": 1
 	},
 	{
 		"name": "Flip mattresses",
 		"repeat": 90,
 		"category": "home",
+		"itemsNeeded": [],
 		"priority": 1
 	},
 	{
 		"name": "Clean your garage",
 		"repeat": 180,
 		"category": "auto",
+		"itemsNeeded": ["Micro-fiber towel", "Screwdriver", "Flashlight", "Mop", "Broom"],
 		"priority": 2
 	},
 	{
 		"name": "Vacuum curtains &amp; upholdestry",
 		"repeat": 180,
 		"category": "home",
+		"itemsNeeded": ["Vacuum cleaner"],
 		"priority": 2
 	},
 	{
 		"name": "Polish silverware and copper",
 		"repeat": 365,
 		"category": "home",
+		"itemsNeeded": ["Silver polish"],
 		"priority": 3
 	},
 	{
 		"name": "Dust lampshades",
 		"repeat": 90,
 		"category": "home",
+		"itemsNeeded": ["Micro-fiber towel"],
 		"priority": 3
 	},
 	{
 		"name": "Dust electronics",
 		"repeat": 90,
 		"category": "home",
+		"itemsNeeded": ["Micro-fiber towel"],
 		"priority": 1
 	},
 	{
 		"name": "Oil door hinges",
 		"repeat": 365,
 		"category": "home",
+		"itemsNeeded": ["Lubricant oil"],
 		"priority": 1
 	},
 	{
 		"name": "Wipe telephones",
 		"repeat": 90,
 		"category": "home",
+		"itemsNeeded": ["Micro-fiber towel"],
 		"priority": 3
 	},
 	{
 		"name": "Wipe switch plates",
 		"repeat": 30,
 		"category": "home",
+		"itemsNeeded": ["Micro-fiber towel"],
 		"priority": 3
 	},
 	{
 		"name": "Wipe ceiling with a mop",
 		"repeat": 365,
 		"category": "home",
+		"itemsNeeded": ["Micro-fiber towel"],
 		"priority": 1
 	},
 	{
 		"name": "Fluff sofa cushions",
 		"repeat": 180,
 		"category": "home",
+		"itemsNeeded": [],
 		"priority": 2
 	},
 	{
 		"name": "Wipe mirrors",
 		"repeat": 180,
 		"category": "home",
+		"itemsNeeded": ["Glass cleaner"],
 		"priority": 2
 	},
 	{
 		"name": "Insulate outdoor and indoor pipes",
 		"repeat": 180,
 		"category": "home",
+		"itemsNeeded": [],
 		"priority": 2
 	},
 	{
 		"name": "Inspect fuel filter",
 		"repeat": 60,
 		"category": "auto",
+		"itemsNeeded": ["Flashlight"],
 		"priority": 2
 	}
 ]
